@@ -13,7 +13,7 @@ body {
   }
   @media (max-width:768px) {
     #birthday-cake {
-        left: 200px;
+        left: 180px;
     }
   }
 #birthday-cake:before {
@@ -225,7 +225,7 @@ body {
   .text {
     width:450px;
     font-size: 50px;
-    left:-180px;
+    left:-140px;
     top:100px;
     z-index:1;
     transition: .3s;
